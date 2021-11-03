@@ -1,3 +1,8 @@
+# Beatriz Pinna 02/11/21
+
+#http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx
+#https://github.com/curso-r/main-faxina
+#https://github.com/abjur/brcrimR
 
 # Pacotes -----------------------------------------------------------------
 
